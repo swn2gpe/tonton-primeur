@@ -1,0 +1,24 @@
+# Maven build artifacts
+target/
+
+# Java IDE files
+*.iml
+.idea/
+*.class
+
+# Data files
+data/
+
+# Python leftovers
+__pycache__/
+*.pyc
+requirements.txt
+app.py
+templates/
+static/
+
+# IDE
+.vscode/
+
+# BTS documents (ne pas publier)
+*.pdf
